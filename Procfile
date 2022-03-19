@@ -1,1 +1,1 @@
-worker: prython bot.py
+worker: python bot.py
