@@ -1,0 +1,1 @@
+worker: prython bot.py
