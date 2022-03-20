@@ -5,6 +5,7 @@
 ## Descrição do Projeto
 Bot Telegram densenvolvido durante o aprendizado e estudo da API do Telegram.
 Este bot está hospedado na plataforma [Heroku](https://www.heroku.com/) e pode ser acessado pelo link [t.me/wemix_draco_bot](https://t.me/wemix_draco_bot).
+Para o desenvolvimento desse bot foi utilizado as API da [Telegram](https://core.telegram.org/bots/api) e o [Wemix](https://api.mir4global.com).
 
 ## Instalação
 Este projeto usa a versão [Python 3.10](https://www.python.org/downloads/).
