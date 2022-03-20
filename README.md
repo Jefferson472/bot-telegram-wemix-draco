@@ -1,5 +1,5 @@
 # Projeto Bot Telegram
-Bot Telegram densenvolvido durante o aprendizado e estudo da API do Telegram.
+ Bot Telegram densenvolvido durante o aprendizado e estudo da API do Telegram.
 
 <center><img src="img\botfather.jpg" alt="Imagem do Botfather, que é uma referência do Padrinho de Poderoso Chefão" width="200px"/></center>
 
