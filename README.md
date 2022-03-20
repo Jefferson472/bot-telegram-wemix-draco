@@ -1,8 +1,8 @@
 # Projeto Bot Telegram
-Bot Telegram densenvolvido durante o aprendizado e estudo da API do Telegram.
+<center><img src="img\botfather.jpg" alt="Imagem do Botfather, que é uma referência do Padrinho de Poderoso Chefão" width="200px"/></center>
 
 ## Descrição do Projeto
-<center><img src="img\botfather.jpg" alt="Imagem do Botfather, que é uma referência do Padrinho de Poderoso Chefão" width="200px"/></center>
+Bot Telegram densenvolvido durante o aprendizado e estudo da API do Telegram.
 Este bot está hospedado na plataforma [Heroku](https://www.heroku.com/) e pode ser acessado pelo link [t.me/wemix_draco_bot](https://t.me/wemix_draco_bot).
 Para o desenvolvimento desse bot foi utilizado as API da [Telegram](https://core.telegram.org/bots/api) e o [Wemix](https://api.mir4global.com).
 
